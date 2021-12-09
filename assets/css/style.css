@@ -1,17 +1,7 @@
----
----
-
-@import "{{ site.theme }}";
 body {
-  background-color: #131421;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
+  background-color: ##131421;
+  padding:50px;
+  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color:#e1e1e1;
+  font-weight:400;
 }
