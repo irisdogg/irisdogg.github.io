@@ -3,6 +3,10 @@ layout: default
 ---
 
 # My projects
+<h2> Rainbow waves shader - Shadertoy
+<hr>
+<h3> <a href="https://www.shadertoy.com/view/dldfWH" target="_blank">View on Shadertoy</a>
+<img src="/assets/img/stars.gif">
 
 <h2> Star galaxy shader - Shadertoy
 <hr>
