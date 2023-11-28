@@ -6,22 +6,19 @@ layout: default
 <h2> Rainbow waves shader - Shadertoy
 <hr>
 <h3> <a href="https://www.shadertoy.com/view/dldfWH" target="_blank">View shader source code</a>
-  
-https://github.com/irisdogg/irisdogg.github.io/assets/24224954/a358f217-9f74-4111-96d6-34cc15c4bde0
+<img src="/assets/img/rainbowWaves.gif">
 
 
 <h2> Star galaxy shader - Shadertoy
 <hr>
 <h3> <a href="https://www.shadertoy.com/view/wsGczK" target="_blank">View shader source code</a>
-
-https://github.com/irisdogg/irisdogg.github.io/assets/24224954/ff10af25-cf8e-4aa3-a12b-8a8b8a30bd55
+<img src="/assets/img/blackHole.gif">
 
   
 <h2> Christmas lights shader - Shadertoy
 <hr>
 <h3> <a href="https://www.shadertoy.com/view/sldXW8" target="_blank">View shader source code</a>
-
-https://github.com/irisdogg/irisdogg.github.io/assets/24224954/779eb59c-21a5-4a6f-8bad-d142c2b54f0e
+<img src="/assets/img/blinky.gif">
 
 
 <h2> The Recreation Of Adam - Unity project
