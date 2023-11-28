@@ -6,7 +6,7 @@ layout: default
 <h2> Rainbow waves shader - Shadertoy
 <hr>
 <h3> <a href="https://www.shadertoy.com/view/dldfWH" target="_blank">View on Shadertoy</a>
-<img src="/assets/img/stars.gif">
+<img src="/assets/img/rainbowWaves.mp4">
 
 <h2> Star galaxy shader - Shadertoy
 <hr>
