@@ -24,5 +24,6 @@ layout: default
 <h2> The Recreation Of Adam - Unity project
 <hr>
 <h3> <a href="https://onehitwonders.itch.io/the-recreation-of-adam" target="_blank">View on itch.io</a>
+<h3> <a href="https://irisdogg.itch.io/" target="_blank"> View more game projects on itch.io</a>
 <img src="/assets/img/adam.png">
 
